@@ -1,3 +1,5 @@
 print("Comenzando con Git")
 nombre = input("Ingrese nombre: ")
 print("Hola", nombre)
+apellido = input("Ingrese apellido: ")
+print("Hola", apellido)
